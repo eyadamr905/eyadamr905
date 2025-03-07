@@ -47,8 +47,5 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/eyadamr905/eyadamr905/output/snake.svg" alt="Snake animation" />
 
 ###
